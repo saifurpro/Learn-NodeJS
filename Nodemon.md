@@ -2,7 +2,7 @@ Link: https://www.npmjs.com/package/nodemon
 
 
 ```
-
+if you didn't install nodemon globally
 After Install Nodemon you have to add a code manually in package.json file on scripts
 
 1. Go to package.json
