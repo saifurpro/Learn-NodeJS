@@ -1,5 +1,6 @@
 <h2 align="center"> Learn NodeJS</h2>
 
+
 ## Table of Contents
 
 - [Update Node](#update-node)
@@ -86,7 +87,7 @@ Go to your Visual Stuido Code `settings.json` file and add the below settings th
 
 Make sure in your VS Code Editor, "LF" is selected as line feed instead of CRLF (Carriage return and line feed). To do that, just click LF/CRLF in bottom right corner of editor, click it and change it to "LF". If you dont do that, you will get errors in my setup.
 
-<img src="images/line-feed.jpg" alt="Line Feed" width="700">
+<img src="https://user-images.githubusercontent.com/26122249/186798301-83b1e4f7-8e31-4c67-86d7-48519dd49a0f.png" alt="Line Feed" width="700">
 
 <!-- LINTING SETUP -->
 
